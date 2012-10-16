@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://vist.pois.org.ru
-title: vist
-subtitle: Trying octopress
+title: Веду пингвинов на север
+# subtitle: Trying octopress
 author: Vitko Stanislav
 simple_search: http://google.com/search
 description: Trying to use octopress for my site.
