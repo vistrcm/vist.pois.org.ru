@@ -53,4 +53,4 @@ footer: true
 
 То, что фильм есть в списке не значит, что я его не смотрел. Вполне может быть всякое: я его смотрел и не помню; я его смотрел, но не знаю, что он так называется. Или я просто хочу фильм пересмотреть.
 
-А еще есть <a href="http://vist.pois.org.ru/spielberg_curriculum">Spielberg Curriculum</a>
+А еще есть [Spielberg Curriculum](http://www.imdb.com/list/lcVuuRq6oyU/).
