@@ -15,6 +15,8 @@ __Хотели мой wishlist? Получите!__
 * [Что-то вроде Canon EOS 5D Mark III](http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "Photo")
 * [Тюльпанообразные бокалы для виски (Whisky Snifter Set)](http://spiegelau.adm.in/fileadmin/spiegelau/products/detail/whisky_snifter_set.jpg)
 * [Lenovo Thinkpad x серии](http://anten.ru/catalog/notebooks/lenovo/thinkpad-x/ "Thinkpad") или около того на поиграться :) А может [MacBook air](http://www.apple.com/macbookair/ "MBair").
+* [Pro Python](http://www.amazon.com/Python-Experts-Voice-Open-Source/dp/1430227575) by Marty Alchin.
+* [Expert Python Programming](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X/ref=sr_1_1?ie=UTF8&qid=1350831291&sr=8-1&keywords=Expert+Python+Programming) by Tarek Ziadé.
 
 В этом списке хотелок уже были:
 
