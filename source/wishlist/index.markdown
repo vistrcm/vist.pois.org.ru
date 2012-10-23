@@ -13,10 +13,10 @@ __Хотели мой wishlist? Получите!__
 * Плеер? Хотя хорошие уши скончались...
 * [Mercedes Benz](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [G class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
 * [Тюльпанообразные бокалы для виски (Whisky Snifter Set)](http://spiegelau.adm.in/fileadmin/spiegelau/products/detail/whisky_snifter_set.jpg)
-* [Lenovo Thinkpad x серии](http://www.lenovo.com/products/us/laptop/thinkpad/x-series "Thinkpad") или [MacBook air](http://www.apple.com/macbookair/ "MBair").
+* [MacBook Pro 13 retina](http://www.apple.com/macbook-pro/features-retina/ "MBPr13") или [Lenovo Thinkpad x серии](http://www.lenovo.com/products/us/laptop/thinkpad/x-series "Thinkpad").
 * [Pro Python](http://www.amazon.com/Python-Experts-Voice-Open-Source/dp/1430227575) by Marty Alchin.
 * [Expert Python Programming](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X/ref=sr_1_1?ie=UTF8&qid=1350831291&sr=8-1&keywords=Expert+Python+Programming) by Tarek Ziadé.
-* Нужно куда-то складывать бекапы дома. В NASах я не разбираюсь. [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) хорош но это не совсем NAS. Может [WD](http://www.ulmart.ru/goods/290480/)? Хорошая штука? Кто знает? Нужен именно сетевой.
+* Нужно куда-то складывать бекапы дома. В NASах я не разбираюсь. [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [Mac Mini](http://www.apple.com/mac-mini/) хороши, но это не совсем NAS. Может [WD](http://www.ulmart.ru/goods/290480/)? Хорошая штука? Кто знает? Нужен именно сетевой.
 * [wifi точка](http://mikrotik.spb.ru/index.php?route=product/product&path=35&product_id=79). На самом деле не особо нужна, просто поиграться.
 
 В этом списке хотелок уже были:
