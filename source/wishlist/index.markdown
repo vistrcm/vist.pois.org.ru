@@ -9,6 +9,7 @@ footer: true
 __Хотели мой wishlist? Получите!__
 
 * Друзья и счастье.
+* [Single malt](http://en.wikipedia.org/wiki/Single_malt_whisky). Люблю я эту гадость.
 * Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик.
 * Плеер? Хотя хорошие уши скончались...
 * [Mercedes Benz](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [G class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
