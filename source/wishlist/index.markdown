@@ -11,7 +11,7 @@ __Хотели мой wishlist? Получите!__
 * Друзья и счастье.
 * [Single malt](http://en.wikipedia.org/wiki/Single_malt_whisky). Люблю я эту гадость.
 * Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик.
-* Плеер? Хотя хорошие уши скончались...
+* Скончались мелкие уши Sennheiser. Хочу попробовать [Shure](http://www.shure.eu/products/earphones-headphones/se-models/index.htm).
 * [Mercedes Benz](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [G class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
 * [Тюльпанообразные бокалы для виски (Whisky Snifter Set)](http://spiegelau.adm.in/fileadmin/spiegelau/products/detail/whisky_snifter_set.jpg)
 * [MacBook Pro 13 retina](http://www.apple.com/macbook-pro/features-retina/ "MBPr13") или [Lenovo Thinkpad x серии](http://www.lenovo.com/products/us/laptop/thinkpad/x-series "Thinkpad").
