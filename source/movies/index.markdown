@@ -106,7 +106,6 @@ __Два по Боллонской__
 * Уолл-стрит: Деньги не спят (Wall Street: Money Never Sleeps).
 * Прошлой ночью в Нью-Йорке (Last Night).
 * Одноклассницы 2 - Легенда о золоте Фриттона (St. Trinians 2 - The Legend Of Fritton's Gold).
-* Меняющие реальность (The Adjustment Bureau).
 * Евротур (Eurotrip).
 * Экзамен (Exam).
 * Луна (Moon).
@@ -119,6 +118,7 @@ __Не сдали__
 * Мушкетеры (The Three Musketeers).
 * Замерзшие (Frozen).
 * Ярослав. Тысячу лет назад.
+* Меняющие реальность (The Adjustment Bureau).
 * Бархатная золотая жила (Velvet Goldmine).
 * Мачете (Machete).
 * Терминатор: Да придёт спаситель (Terminator Salvation).
@@ -126,5 +126,6 @@ __Не сдали__
 * Камень.
 * Реальные кабаны (Wild Hogs).
 * Машина времени в джакузи (Hot Tub Time Machine).
+* Царь.
 
 Пока все :)
