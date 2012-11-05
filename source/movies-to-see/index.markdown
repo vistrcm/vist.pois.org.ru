@@ -25,7 +25,6 @@ footer: true
 * Сталкер
 * Ностальгия
 * Влюбись в меня если осмелишься (Jeux d'enfants)
-* Спеши любить (A walk to remember)
 * Точка
 * Возвращение
 * Беззаботная (Happy-go-Lucky)
