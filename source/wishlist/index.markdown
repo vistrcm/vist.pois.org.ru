@@ -19,6 +19,7 @@ __Хотели мой wishlist? Получите!__
 * [Expert Python Programming](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X/ref=sr_1_1?ie=UTF8&qid=1350831291&sr=8-1&keywords=Expert+Python+Programming) by Tarek Ziadé.
 * Нужно куда-то складывать бекапы дома. В NASах я не разбираюсь. [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [Mac Mini](http://www.apple.com/mac-mini/) хороши, но это не совсем NAS. Может [WD](http://www.ulmart.ru/goods/290480/)? Хорошая штука? Кто знает? Нужен именно сетевой.
 * [wifi точка](http://mikrotik.spb.ru/index.php?route=product/product&path=35&product_id=79). На самом деле не особо нужна, просто поиграться.
+* [Как читать книги. Руководство по чтению великих произведений](http://www.ozon.ru/context/detail/id/5933682/)
 
 В этом списке хотелок уже были:
 
