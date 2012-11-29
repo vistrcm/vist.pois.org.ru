@@ -5,7 +5,7 @@ date: 2012-11-28 13:23
 comments: true
 categories:
 ---
-Продаю свой MacBook Pro 13 - [модель Late 2011](http://store.apple.com/us/configure/MD101LL/A?).
+Продаю свой MacBook Pro 13 - [модель Late 2011](http://store.apple.com/us/configure/MD101LL/A?).  
 Ноут немного кастомизирован:
 
 - процессор i5 2.4GHz
@@ -13,10 +13,8 @@ categories:
 - 500GB HDD + 128GB SSD ([Crucial](http://www.crucial.com/store/partspecs.aspx?IMODULE=CT128M4SSD2)).
 - экран 13''
 
-147 циклов аккумулятора.
-
-Установлена OS X 10.8.2.
-
+147 циклов аккумулятора.  
+Установлена OS X 10.8.2.  
 Битых пикселей на экране нет. Вмятины и царапины на корпусе отсутствуют.
 
 Ноутбук приобретен в США, поэтому русских букв на клавиатуре нет. При необходимости их легко нанести лазерной гравировкой.
