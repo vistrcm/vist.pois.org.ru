@@ -114,6 +114,7 @@ __Два по Боллонской__
 * A Walk to Remember.
 * Men in Black 3.
 * Римские приключения (To Rome with Love).
+* Ешь, молись, люби (Eat, Pray, Love).
 
 
 __Не сдали__
