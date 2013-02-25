@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Продается MacBook Pro 13"
+title: "(Продано) Продается MacBook Pro 13"
 date: 2012-11-28 13:23
 comments: true
 categories:
