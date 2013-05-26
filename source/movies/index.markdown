@@ -10,6 +10,7 @@ footer: true
 
 __Отличные фильмы__
 
+* Прощай, детка, прощай (Gone Baby Gone).
 * Life In A Day.
 * Oldboy.
 * Умница Уилл Хантинг (Good Will Hunting).
