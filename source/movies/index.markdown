@@ -104,6 +104,7 @@ __Удовлетворительные фильмы__
 
 __Два по Боллонской__
 
+* Профессионал (Killer Elite).
 * Охотники на гангстеров (The Gangster Squad).
 * Ларго Винч: Заговор в Бирме (Largo Winch: The Burma Conspiracy).
 * Телохранитель (London Boulevard).
