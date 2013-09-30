@@ -49,7 +49,6 @@ __Хорошие фильмы__
 * Мои черничные ночи (My Blueberry Nights).
 * Отступники (The Departed).
 * Гордость и слава (Pride and Glory).
-* Париж, я люблю тебя ( Paris, je t'aime).
 * Одноклассницы (St Trinian's).
 * Город грехов (Sin city).
 * Сука любовь (Amores perros).
