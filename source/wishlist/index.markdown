@@ -13,7 +13,6 @@ __Хотели мой wishlist? Получите!__
 * [Single malt](http://en.wikipedia.org/wiki/Single_malt_whisky). Люблю я эту гадость.
 * Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик.
 * [Mercedes](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [Benz](http://www.youtube.com/watch?v=K5gLawhRY8k) [G](https://vimeo.com/32952242) [class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
-* [Тюльпанообразные бокалы для виски (Whisky Snifter)](http://www.wineware.co.uk/content/images/thumbs/0015424_spiegelau-whisky-snifter-glasses-set-of-2.jpeg)
 * Lenovo Thinkpad x серии. Например [X1 carbon](http://www.lenovo.com/products/us/laptop/thinkpad/x-series/x1-carbon/ "Thinkpad").
 * Нужно куда-то складывать бекапы дома. Я бы поигрался с [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [Mac Mini](http://www.apple.com/mac-mini/) они хороши, и даже больше, чем NAS. Интересная штука [WD](http://www.ulmart.ru/goods/290480/).
 * [Как читать книги. Руководство по чтению великих произведений](http://www.ozon.ru/context/detail/id/5933682/).
@@ -22,6 +21,7 @@ __Хотели мой wishlist? Получите!__
 
 В этом списке хотелок уже были:
 
+* [~~Тюльпанообразные бокалы для виски (Whisky Snifter).~~](http://www.wineware.co.uk/content/images/thumbs/0015424_spiegelau-whisky-snifter-glasses-set-of-2.jpeg)
 * [~~Pro Python~~](http://www.amazon.com/Python-Experts-Voice-Open-Source/dp/1430227575) by Marty Alchin.
 * [~~wifi точка~~](http://mikrotik.spb.ru/index.php?route=product/product&path=35&product_id=79). На самом деле не особо нужна, просто поиграться.
 * [~~йаТелефоно~~](http://www.apple.com/iphone/).
