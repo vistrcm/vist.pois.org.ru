@@ -11,7 +11,7 @@ __Хотели мой wishlist? Получите!__
 * [Вавилонская рыбка](http://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%BA%D0%B0): очень нужно нужно понимать это улюлюканье, мурлыканье и пищание.
 * Друзья и счастье.
 * [Single malt](http://en.wikipedia.org/wiki/Single_malt_whisky). Люблю я эту гадость.
-* Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик.
+* Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик. [Вот хороший пример.](http://www.omegawatches.com/collection/speedmaster/presentation/speedmaster-moonwatch-chronograph)
 * [Mercedes](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [Benz](http://www.youtube.com/watch?v=K5gLawhRY8k) [G](https://vimeo.com/32952242) [class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
 * Lenovo Thinkpad x серии. Например [X1 carbon](http://www.lenovo.com/products/us/laptop/thinkpad/x-series/x1-carbon/ "Thinkpad").
 * Нужно куда-то складывать бекапы дома. Я бы поигрался с [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [Mac Mini](http://www.apple.com/mac-mini/) они хороши, и даже больше, чем NAS. Интересная штука [WD](http://www.ulmart.ru/goods/290480/).
