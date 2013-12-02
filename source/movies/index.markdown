@@ -107,6 +107,8 @@ __Удовлетворительные фильмы__
 
 __Два по Боллонской__
 
+* [Росомаха: Бессмертный (The Wolverine).](http://www.imdb.com/title/tt1430132/)
+* [Люди Икс: Начало. Росомаха (X-Men Origins: Wolverine).](http://www.imdb.com/title/tt0458525/)
 * [Записки юного врача (A Young Doctor's Notebook).](http://www.imdb.com/title/tt2164430/)
 * [Джобс: Империя соблазна (Jobs).](http://www.imdb.com/title/tt2357129/)
 * Великий Гэтсби (The Great Gatsby).
