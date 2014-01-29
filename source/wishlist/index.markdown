@@ -14,8 +14,6 @@ __Хотели мой wishlist? Получите!__
 * Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик. [Вот хороший пример.](http://www.omegawatches.com/collection/speedmaster/presentation/speedmaster-moonwatch-chronograph)
 * [Mercedes](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [Benz](http://www.youtube.com/watch?v=K5gLawhRY8k) [G](https://vimeo.com/32952242) [class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
 * Lenovo Thinkpad x серии. Например [X1 carbon](http://www.lenovo.com/products/us/laptop/thinkpad/x-series/x1-carbon/ "Thinkpad").
-* Нужно куда-то складывать бекапы дома. Я бы поигрался с [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [Mac Mini](http://www.apple.com/mac-mini/) они хороши, и даже больше, чем NAS. Интересная штука [WD](http://www.ulmart.ru/goods/290480/).
-* [Мелкий iPad с нормальным дисплеем.](http://www.apple.com/ipad-mini/)
 * [Компьютер-мусорное ведро.](http://www.apple.com/mac-pro/)
 * [Akka Concurrency.](http://www.artima.com/shop/akka_concurrency)
 
@@ -35,6 +33,8 @@ __Хотели мой wishlist? Получите!__
 * [~~MacBook Pro 13 retina~~](http://www.apple.com/macbook-pro/features-retina/ "MBPr13").
 * [~~Expert Python Programming~~](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X/ref=sr_1_1?ie=UTF8&qid=1350831291&sr=8-1&keywords=Expert+Python+Programming) by Tarek Ziadé.
 * [~~Как читать книги. Руководство по чтению великих произведений~~](http://www.ozon.ru/context/detail/id/5933682/).
+* Нужно куда-то складывать бекапы дома. Я бы поигрался с [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [~~Mac Mini~~](http://www.apple.com/mac-mini/) они хороши, и даже больше, чем NAS. Интересная штука [WD](http://www.ulmart.ru/goods/290480/).
+* [~~Мелкий iPad с нормальным дисплеем.~~](http://www.apple.com/ipad-mini/)
 
 
 Расхотелки:
