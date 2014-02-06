@@ -15,7 +15,6 @@ __Хотели мой wishlist? Получите!__
 * [Mercedes](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [Benz](http://www.youtube.com/watch?v=K5gLawhRY8k) [G](https://vimeo.com/32952242) [class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
 * Lenovo Thinkpad x серии. Например [X1 carbon](http://www.lenovo.com/products/us/laptop/thinkpad/x-series/x1-carbon/ "Thinkpad").
 * [Компьютер-мусорное ведро.](http://www.apple.com/mac-pro/)
-* [Akka Concurrency.](http://www.artima.com/shop/akka_concurrency)
 
 [Мелочи на Amazon'e](http://amzn.com/w/1WK4H4ZVW8M4R).
 
@@ -35,6 +34,7 @@ __Хотели мой wishlist? Получите!__
 * [~~Как читать книги. Руководство по чтению великих произведений~~](http://www.ozon.ru/context/detail/id/5933682/).
 * Нужно куда-то складывать бекапы дома. Я бы поигрался с [Microserver](http://shopping1.hp.com/is-bin/INTERSHOP.enfinity/WFS/WW-USSMBPublicStore-Site/en_US/-/USD/ViewStandardCatalog-Browse;pgid=jDJwlVlq2W9SR0Yk2kO1Yuen0000DLMu54k4;sid=HQ7IJ-ROcWjIJ7TIpWsDsz1BzwDwVnsEjQc=?CatalogCategoryID=H20Q7EN5z88AAAEuEQIsTi_9) или [~~Mac Mini~~](http://www.apple.com/mac-mini/) они хороши, и даже больше, чем NAS. Интересная штука [WD](http://www.ulmart.ru/goods/290480/).
 * [~~Мелкий iPad с нормальным дисплеем.~~](http://www.apple.com/ipad-mini/)
+* [~~Akka Concurrency.~~](http://www.artima.com/shop/akka_concurrency)
 
 
 Расхотелки:
