@@ -75,6 +75,7 @@ __Хорошие фильмы__
 
 __Удовлетворительные фильмы__
 
+* [Thor: The Dark World.](http://www.imdb.com/title/tt1981115/)
 * [Доля ангелов(The Angels' Share).](http://www.imdb.com/title/tt1924394/)
 * Париж, я люблю тебя (Paris, je t'aime).
 * Соловей-Разбойник.
