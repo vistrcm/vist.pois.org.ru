@@ -24,6 +24,7 @@ __Отличные фильмы__
 * Мимино.
 * Магнолия (Magnolia).
 * [Собачье сердце.](http://www.imdb.com/title/tt0096126/)
+* [Nymphomaniac: Vol. I.](http://www.imdb.com/title/tt1937390/)
 
 
 __Хорошие фильмы__
