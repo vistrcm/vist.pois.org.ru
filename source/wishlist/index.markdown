@@ -13,8 +13,8 @@ __Хотели мой wishlist? Получите!__
 * [Single malt](http://en.wikipedia.org/wiki/Single_malt_whisky). Люблю я эту гадость.
 * Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик. [Вот хороший пример.](http://www.omegawatches.com/collection/speedmaster/presentation/speedmaster-moonwatch-chronograph)
 * [Mercedes](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [Benz](http://www.youtube.com/watch?v=K5gLawhRY8k) [G](https://vimeo.com/32952242) [class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
-* Lenovo Thinkpad x серии. Например [X1 carbon](http://www.lenovo.com/products/us/laptop/thinkpad/x-series/x1-carbon/ "Thinkpad").
 * [Компьютер-мусорное ведро.](http://www.apple.com/mac-pro/)
+* [Нож.](http://chrisreeve.com/Sebenza-25)
 
 [Мелочи на Amazon'e](http://amzn.com/w/1WK4H4ZVW8M4R).
 
@@ -41,3 +41,4 @@ __Хотели мой wishlist? Получите!__
 
 * [Что-то вроде Canon EOS 5D Mark III](http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "Photo").
 * Что-нибудь [андроидообразное](http://www.google.com/nexus/) на поиграться. (Поигрался. На данный момент не удобно для жизни.)
+* Lenovo Thinkpad x серии. Например [X1 carbon](http://www.lenovo.com/products/us/laptop/thinkpad/x-series/x1-carbon/ "Thinkpad").
