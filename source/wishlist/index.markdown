@@ -11,7 +11,7 @@ __Хотели мой wishlist? Получите!__
 * [Вавилонская рыбка](http://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%BA%D0%B0): очень нужно нужно понимать это улюлюканье, мурлыканье и пищание.
 * Друзья и счастье.
 * [Single malt](http://en.wikipedia.org/wiki/Single_malt_whisky). Люблю я эту гадость.
-* Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик. [Вот хороший пример.](http://www.omegawatches.com/collection/speedmaster/presentation/speedmaster-moonwatch-chronograph)
+* Всегда актуально: темный циферблат, металлический браслет, сапфировое стекло,  плюсик. [Вот хороший пример.](http://www.omegawatches.com/watches/speedmaster/moonwatch/moonwatch-chronograph/)
 * [Mercedes](http://www.youtube.com/watch?v=FxBVeCigosc "Main Hotelka") [Benz](http://www.youtube.com/watch?v=K5gLawhRY8k) [G](https://vimeo.com/32952242) [class](http://www.youtube.com/watch?v=OjdmNKGjZyA).
 
 [Мелочи на Amazon'e](http://amzn.com/w/1WK4H4ZVW8M4R).
